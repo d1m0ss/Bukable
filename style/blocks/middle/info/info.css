@@ -219,3 +219,22 @@
 .i-body__e-text{
     margin-bottom: 10px;
 }
+
+.info__chewrone{
+    position: fixed;
+    background: #000000b3;
+    width: 40px;
+    height: 30px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 10px 10px 0;
+    top: 70px;
+}
+
+.i-chewrone__link{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    width: 100%;
+}
