@@ -1,6 +1,4 @@
 .middle{
-    position: relative;
-    top: 64px;
     display: flex;
     gap: 10px;
 }
