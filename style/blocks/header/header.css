@@ -4,6 +4,10 @@
 
 .header{
     max-width: 1440px;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    background: black;
     margin: auto;
     justify-content: space-between;
     padding: 7px 48px 10px 26px;
@@ -29,6 +33,10 @@
 
 .header__menu-w{
     gap: 28.65px;
+}
+
+.fa-bell{
+    cursor: pointer;
 }
 
 .header__avatar{

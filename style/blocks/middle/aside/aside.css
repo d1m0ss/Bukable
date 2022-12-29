@@ -1,5 +1,9 @@
 .aside{
-    padding: 22px 80px 0 25px;
+    flex-basis: 215px;
+    padding-top: 22px;
+    position: sticky;
+    top: 64px;
+    height: max-content;
 }
 
 .aside__btn-wrap{
